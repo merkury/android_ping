@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello-CMake</string>
+    <string name="start_ping">Start ping</string>
+</resources>
